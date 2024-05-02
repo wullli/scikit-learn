@@ -169,7 +169,7 @@ Changelog
 ..........................
 
 - |Fix| Fixed a regression in :class:`calibration.CalibratedClassifierCV` where
-  an error was wrongly raised with string targets. 
+  an error was wrongly raised with string targets.
   :pr:`28843` by :user:`Jérémie du Boisberranger <jeremiedbb>`.
 
 :mod:`sklearn.cluster`
